@@ -1,11 +1,11 @@
 ---
 
-
 layout: single
 
 title: "Pagination설정"
 
 ---
+# 깃허브 태그 설정과 Pegination을 이용한 코드 이쁘게만들기
 
 1. ![image-20240130060050936](../images/2024-01-30-Pagination/image-20240130060050936.png)
 
