@@ -2,10 +2,10 @@
 
 layout: single
 
-title: "Pagination설정"
+title: "태그설정과 rouge를 이용한 코드 이쁘게 만들"
 
 ---
-# 깃허브 태그 설정과 Pegination을 이용한 코드 이쁘게만들기
+# 깃허브 태그 설정과 rouge을 이용한 코드 이쁘게만들기
 
 1. ![image-20240130060050936](../images/2024-01-30-Pagination/image-20240130060050936.png)
 
@@ -26,16 +26,19 @@ title: "Pagination설정"
 
 4. 이러한 기능들을 이용하여 내 블로그 게시글에 자바코드를 보다 이쁘게 사용할수 있게 되었다.
    예를 들어 내가 포트폴리오로 작성한 RecipeController의 코드를 하나 가져오겠다.
-   ```Java
-   @PostMapping("commentProc")
+   
+   ~~~java
+	@PostMapping("commentProc")
 	public String commentProc(HttpSession session, CommentDTO commentDto, Model model) {
-		recipeService.commentProc(commentDto);
-
+   	recipeService.commentProc(commentDto);
+	
 		
 		return "redirect:/recipeBoardContent?num=" + commentDto.getRe_no();
-	}
+   }
    
-   ```
+   ~~~
 
+   해당 기능 이용 방법은 "~~~" 작성후 java, python등 원하는 언어를 작성하면 된다.
+   
    
 
