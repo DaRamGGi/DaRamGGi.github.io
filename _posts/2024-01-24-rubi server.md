@@ -37,7 +37,7 @@ tag: rubiserver
 
 설치 완료시에
 
-![rubydown](../images/2024-01-24-rubi server/rubydown.png)
+![rubydown](../../images/2024-01-24-rubi server/rubydown.png)
 
 
 
@@ -59,7 +59,7 @@ tag: rubiserver
 
 설치완료시
 
-![01-24-2](../images/2024-01-24-rubi server/01-24-2.png)
+![01-24-2](../../images/2024-01-24-rubi server/01-24-2.png)
 
 
 
@@ -87,7 +87,7 @@ tag: rubiserver
 
 
 
-![01-24-3](../images/2024-01-24-rubi server/01-24-3.png)
+![01-24-3](../../images/2024-01-24-rubi server/01-24-3.png)
 
 
 

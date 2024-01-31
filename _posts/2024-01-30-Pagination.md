@@ -10,12 +10,12 @@ tag: blog
 ---
 # 깃허브 태그 설정과 rouge을 이용한 코드 이쁘게만들기
 
-1. ![image-20240130060050936](../images/2024-01-30-Pagination/image-20240130060050936.png)
+1. ![image-20240130060050936](../../images/2024-01-30-Pagination/image-20240130060050936.png)
 
    #Site Author 에서 필요 기능들을 작성한다
    해당 작성자는 트위터, 페이스북은 없으므로 삭제 시켰다.
 
-2. ![image-20240130060338680](../images/2024-01-30-Pagination/image-20240130060338680.png)
+2. ![image-20240130060338680](../../images/2024-01-30-Pagination/image-20240130060338680.png)
    foorter 같은경우도 깃허브를 제외한 인스타그렘, 트위터 ,페이스북, gitlab이 없으니 지우고  github만 남겼다.
 
 3. 이제 내가 작성한 코드들을 보다 가독성이 쉽게 색을 입히는 작업을 할것이다.
@@ -23,7 +23,7 @@ tag: blog
 
    이러한기능은 minimal-mistakes를 작성하신분이 이미 만들어 놓았다.
 
-   ![image-20240130064706166](../images/2024-01-30-Pagination/image-20240130064706166.png)
+   ![image-20240130064706166](../../images/2024-01-30-Pagination/image-20240130064706166.png)
    markdown은 kramdown으로 작성되어있고
    highlighter는 rouge로 되어있다.
 
