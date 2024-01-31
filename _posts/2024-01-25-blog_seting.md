@@ -5,6 +5,8 @@ layout: single
 title:  "깃허브 블로그 셋팅"
 
 categories: coding
+
+tag: blog
 ---
 
 

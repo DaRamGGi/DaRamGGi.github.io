@@ -2,6 +2,7 @@
 layout: single
 title:  "루비를 이용한 깃허브 블로그 로컬서버"
 categories: coding
+tag: rubiserver
 ---
 
 # 루비를 이용하여 로컬 서버로 블로그 작성글을 실시간으로 확인이 가능하다.
