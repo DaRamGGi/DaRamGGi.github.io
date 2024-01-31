@@ -4,6 +4,7 @@ layout: single
 
 title: "태그설정과 rouge를 이용한 코드 이쁘게 만들"
 
+categories: coding
 ---
 # 깃허브 태그 설정과 rouge을 이용한 코드 이쁘게만들기
 
