@@ -33,6 +33,8 @@ New_id
 - 제거후에 마지막 마침표가 . 이면 .제거
 - 길이가 2자 이하라면 마지막 문자를 3이 될때까지 반복
 
+### 정답
+
 ```java
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -98,3 +100,6 @@ public class Main {
 
 ```
 
+### 해당 문제를 풀며 배워간점
+
+정규식, substring, replace
