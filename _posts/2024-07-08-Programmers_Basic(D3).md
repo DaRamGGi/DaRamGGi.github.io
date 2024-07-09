@@ -34,3 +34,51 @@ class Solution {
 }
 ```
 
+# 더 크게 합치기
+
+```java
+class Solution {
+    public int solution(int a, int b) {
+        int answer = 0;
+        String e = String.valueOf(a);
+        String r = String.valueOf(b);
+        String c = (e+r);
+        int q = Integer.parseInt(c);
+        String d = (r+e);
+        int w = Integer.parseInt(d);
+        if(q < w){
+            answer = w;
+        }else
+            answer = q;
+        
+        return answer;
+    }
+}
+```
+
+다른 사람 풀이
+
+```java
+class Solution {
+    public int solution(int a, int b) {
+        return Math.max(Integer.parseInt(a + "" + b), Integer.parseInt(b + "" + a));
+    }
+}
+```
+
+JAVA는  "" 이 포함되어 있을경우 String type으로 입력된다.
+
+# 두 수의 연산값 비교하기
+
+```java
+class Solution {
+    public int solution(int a, int b) {
+        
+        String c = (a + "" + b);
+        int d = (2 * a * b);
+        
+        return Math.max(Integer.parseInt(c) , d);
+    }
+}
+```
+
